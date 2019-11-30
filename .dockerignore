@@ -1,0 +1,6 @@
+node_modules
+architecture.png
+*-spec.ts
+*test*
+.git
+.gitignore
